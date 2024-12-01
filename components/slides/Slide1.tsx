@@ -40,7 +40,7 @@ export const Slide1 = (): SlideProps => ({
                 &nbsp;&nbsp;&nbsp;&nbsp;def __init__(self) -{'>'} None:<br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.last_result = None<br />
                 <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;def _validate_numbers(self, x: float, y: float) -> tuple[float, float]:<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;def _validate_numbers(self, x: float, y: float) -{'>'} tuple[float, float]:<br />
                 &nbsp;&nbsp;&nbsp;&nbsp;def add(self, x: float, y: float) -{'>'} float:<br />
                 &nbsp;&nbsp;&nbsp;&nbsp;def subtract(self, x: float, y: float) -{'>'} float:<br />
                 &nbsp;&nbsp;&nbsp;&nbsp;def multiply(self, x: float, y: float) -{'>'} float:<br />
